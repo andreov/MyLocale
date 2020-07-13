@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Выбор локализации</string>
+    <string name="textViewEn">Локализация приложения</string>
+    <string name="switchLanguage">Сменить локализацию</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+</resources>

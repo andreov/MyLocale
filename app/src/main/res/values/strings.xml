@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLocale</string>
+    <string name="textViewEn">The language of the application</string>
+    <string name="switchLanguage">To change the language</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+        </string-array>
+</resources>
