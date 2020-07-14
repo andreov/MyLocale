@@ -48,6 +48,9 @@ public class MainActivity extends AppCompatActivity {
                     case "Русский":
                         locale = new Locale("ru");
                         break;
+                    case "English":
+                        locale = new Locale("en");
+                        break;
                 }
 
                 Configuration config = new Configuration();
