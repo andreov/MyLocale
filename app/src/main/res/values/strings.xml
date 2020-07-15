@@ -1,15 +1,26 @@
 <resources>
-    <string name="app_name">MyLocale</string>
-    <string name="textViewEn">The language of the application</string>
-    <string name="switchLanguage">To change the language</string>
+    <string name="app_name">Change language and Style</string>
+    <string name="textViewEn">Language application</string>
+    <string name="switchLanguage">Change</string>
     <string name="LondonEn">London is the capital and largest city of England
-        and the United Kingdom.[7][8] Standing on the River
-        Thames in the south-east of England, at the head of
-        its 50-mile (80 km) estuary leading to the North Sea,
-        London has been a major settlement for two millennia. </string>
+        and the United Kingdom. </string>
+    <string name="style_application">Style application</string>
+    <string name="style_margin">Style margin</string>
 
     <string-array name="language">
         <item>English</item>
         <item>Русский</item>
         </string-array>
+    <string-array name="Color">
+        <item>Green</item>
+        <item>Black</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="Margin">
+        <item>No</item>
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
 </resources>

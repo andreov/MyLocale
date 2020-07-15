@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Выбор локализации</string>
+    <string name="app_name">Выбор локализации и стиля</string>
     <string name="textViewEn">Локализация приложения</string>
-    <string name="switchLanguage">Сменить локализацию</string>
-    <string name="LondonEn">Лондон-столица и крупнейший город Англии и Соединенного Королевства.
-        Стоя на реке Темзе на юго-востоке Англии, в начале ее 50-мильного (80 км) устья,
-        ведущего к Северному морю, Лондон был крупным поселением в течение двух тысячелетий. </string>
+    <string name="switchLanguage">Изменить</string>
+    <string name="LondonEn">Лондон-столица и крупнейший город Англии и Соединенного Королевства. </string>
+    <string name="style_application">Стиль приложения</string>
+    <string name="style_margin">Стиль отступов</string>
     <string-array name="language">
         <item>English</item>
         <item>Русский</item>
+    </string-array>
+    <string-array name="Color">
+        <item>Зелёный</item>
+        <item>Чёрный</item>
+        <item>Синий</item>
+    </string-array>
+
+    <string-array name="Margin">
+        <item>Нет</item>
+        <item>Мелкие</item>
+        <item>Средние</item>
+        <item>Большие</item>
     </string-array>
 </resources>
